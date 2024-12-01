@@ -1,1 +1,1 @@
-# ktsu.io.Physics.Constants
+# ktsu.Physics.Constants
