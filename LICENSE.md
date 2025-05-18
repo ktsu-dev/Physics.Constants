@@ -1,6 +1,6 @@
 MIT License
 
-https://github.com/ktsu-dev/ktsu-dev/Physics.Constants
+https://github.com/ktsu-dev/Physics.Constants
 
 Copyright (c) 2023-2025 ktsu-dev
 
